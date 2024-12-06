@@ -1,0 +1,110 @@
+[
+	{
+		"title": "Immortal",
+		"authors": ["Gene Doucette"],
+		"genres": ["fantasy", "urban fantasy", "fiction", "paranormal", "science fiction", "mystery", "humor", "supernatural"],
+		"themes": ["immortality", "vampires"]
+	},
+	{
+		"title": "Hellenic Immortal",
+		"authors": ["Gene Doucette"],
+		"genres": ["fantasy", "urban fantasy", "fiction", "paranormal", "science fiction", "mystery", "humor", "supernatural"],
+		"themes": ["immortality", "vampires", "mythology"]
+	},
+	{
+		"title": "The Spaceship Next Door",
+		"authors": ["Gene Doucette"],
+		"genres": ["science fiction", "young adult", "fiction", "fantasy", "humor"],
+		"themes": ["aliens"]
+	},
+	{
+		"title": "Fixer",
+		"authors": ["Gene Doucette"],
+		"genres": ["science fiction", "fantasy", "fiction", "thriller", "urban fantasy", "horror"],
+		"themes": ["time travel, suspense, superheroes"]
+	},
+	{
+		"title": "The Shadow over Innsmouth",
+		"authors": ["H.P. Lovecraft"],
+		"genres": ["horror", "fiction", "classics", "fantasy", "lovecraftian", "science fiction", "mystery", "short stories"],
+		"themes": []
+	},
+	{
+		"title": "The Call of Cthulhu",
+		"authors": ["H.P. Lovecraft"],
+		"genres": ["horror", "fiction", "classics", "fantasy", "lovecraftian", "science fiction", "short stories"],
+		"themes": []
+	},
+	{
+		"title": "The Nameless City",
+		"authors": ["H.P. Lovecraft"],
+		"genres": ["horror", "fiction", "classics", "fantasy", "lovecraftian", "science fiction", "short stories"],
+		"themes": []
+	},
+	{
+		"title": "The Time Machine",
+		"authors": ["H.G. Wells"],
+		"genres": ["science fiction", "fiction", "classics", "fantasy", "adventure"],
+		"themes": ["time travel", "dystopian"]
+	},
+	{
+		"title": "Outlander",
+		"authors": ["Diana Gabaldon"],
+		"genres": ["historical fiction", "romance", "fantasy", "fiction", "historical"],
+		"themes": ["time travel"]
+	},
+	{
+		"title": "11/22/63",
+		"authors": ["Stephen King"],
+		"genres": ["historical fiction", "science fiction", "fantasy", "fiction", "horror", "thriller", "mystery", "historical"],
+		"themes": ["time travel"]
+	},
+	{
+		"title": "It",
+		"authors": ["Stephen King"],
+		"genres": ["horror", "fiction", "thriller", "fantasy", "classics", "mystery", "paranormal", "supernatural"],
+		"themes": ["clowns"]
+	},
+	{
+		"title": "Mysery",
+		"authors": ["Stephen King"],
+		"genres": ["horror", "fiction", "thriller", "mystery", "suspense", "classics"],
+		"themes": ["time travel"]
+	},
+	{
+		"title": "Alien",
+		"authors": ["Alan Dean Foster"],
+		"genres": ["science fiction", "horror", "fiction", "thriller", "fantasy"],
+		"themes": ["aliens", "space"]
+	},
+	{
+		"title": "Alien: Prototype",
+		"authors": ["Tim Waggoner"],
+		"genres": ["horror", "science fiction", "fiction", "action", "fantasy"],
+		"themes": ["aliens", "space"]
+	},
+	{
+		"title": "Dracula",
+		"authors": ["Tim Waggoner"],
+		"genres": ["classics", "horror", "fiction", "paranormal"],
+		"themes": ["vampires"]
+	},
+	{
+		"title": "Twilight",
+		"authors": ["Stephenie Meyer"],
+		"genres": ["fantasy", "young adult", "romance", "fiction", "paranormal", "supernatural", "urban fantasy"],
+		"themes": ["vampires"]
+	},
+	{
+		"title": "Harry Potter and the Sorcerer’s Stone",
+		"authors": ["J.K. Rowling"],
+		"genres": ["fantasy", "young adult", "fiction", "adventure"],
+		"themes": ["magic"]
+	},
+	{
+		"title": "The Hunger Games",
+		"authors": ["Suzanne Collins"],
+		"genres": ["fantasy", "young adult", "fiction", "action", "science fiction"]
+		"themes": ["post apocalyptic"]
+	}
+]
